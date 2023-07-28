@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pidgepost.com.ico",
     "slug": "pidge",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 1164,
-    "timeDay": 949,
-    "timeWeek": 1164,
-    "timeMonth": 1164,
-    "timeYear": 1164,
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 1112,
+    "timeDay": 1140,
+    "timeWeek": 1112,
+    "timeMonth": 1112,
+    "timeYear": 1112,
     "dailyMinutesDown": {
       "2023-07-23": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 726,
-    "timeDay": 519,
-    "timeWeek": 726,
-    "timeMonth": 726,
-    "timeYear": 726,
+    "time": 672,
+    "timeDay": 551,
+    "timeWeek": 672,
+    "timeMonth": 672,
+    "timeYear": 672,
     "dailyMinutesDown": {}
   }
 ]
