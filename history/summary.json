@@ -26,19 +26,19 @@
     "url": "https://pidgepostdev.wpengine.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pidgepostdev.wpengine.com.ico",
     "slug": "pidge-test",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 360,
-    "timeWeek": 423,
-    "timeMonth": 430,
-    "timeYear": 479,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 508,
+    "timeDay": 1020,
+    "timeWeek": 636,
+    "timeMonth": 488,
+    "timeYear": 508,
     "dailyMinutesDown": {
-      "2023-09-15": 0
+      "2023-09-15": 22
     }
   }
 ]
